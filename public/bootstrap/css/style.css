@@ -1,0 +1,9 @@
+.st-font{
+	font-family: 'Noto Serif', serif;
+}
+
+html,
+body{
+	height: 100%;
+	position: fixed;
+}
